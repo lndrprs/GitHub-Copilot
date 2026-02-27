@@ -71,7 +71,32 @@ C1.4 - Características do Copilot para Administradores
  > - Exclude Files: Configura o Copilot para ignorar certos arquivos - útil para não disponibilizar no Copilot. 
 
 C1.5 - Melhores Práticas
- > - 
+ > - É necessário entender quais são os pontos fortes do Copilot:
+ >   - Escrever testes e códigos repetidos; 
+ >   - Debugar e corrigir sintaxe;
+ >   - Explicar e comentar código;
+ >   - Gerar expressões regulares. 
+ >
+ > - Além disso, saber também a diferença entre Inline e Chat:
+ >   - Inline é melhor para:
+ >     - Completar snippets de códigos, nomes de variáveis, e funções enquanto se digita; 
+ >     - Gerar código repetitivo;
+ >     - Gerar código de comentários inline, em linguagem natural;
+ >     - Gerar testes para desenvolvimento de testes. 
+ >
+ >   - Chat é melhor para:
+ >     - Responder questões sobre código, em linguagem natural;
+ >     - Gerar grandes seções de código, e iterar no código para atender as necessidades;
+ >     - Executar tarefas específicas com palavras-chave e habilidades;
+ >     - Completar uma tarefa como um profissional específico. 
+ >
+ > - Engenharia de Prompt 
+ >   - Estrutura a requisição ao Copilot tem uma função crítica na habilidade de gerar uma resposta valiosa; 
+ >   - Dicas:
+ >     - Quebre em partes menores, tarefas complexas;
+ >     - Ser específico sobre requisitos;
+ >     - Providenciar exemplos de coisas como dados de inserção, outputs, e implementações;
+ >     - Seguir boas práticas de código. 
 
 </div>
 </details>
