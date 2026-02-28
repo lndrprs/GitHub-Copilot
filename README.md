@@ -97,8 +97,20 @@ C1.5 - Melhores Práticas
  >     - Ser específico sobre requisitos;
  >     - Providenciar exemplos de coisas como dados de inserção, outputs, e implementações;
  >     - Seguir boas práticas de código. 
-
-</div>
+ >
+ > - Validar Trabalho do Copilot 
+ >   - É sempre necessário validar o código que é sugerido, pois pode conter erros:
+ >     - Entender o código sugerido antes de implementar;
+ >     - Revisar as sugestões cuidadosamente;
+ >     - Usar testes automatizados, e ferramentas para checarem o trabalho do Copilot. 
+ >
+ > - Orientação ao Copilot
+ >   - Prover à IA, contexto; 
+ >   - Rescrever o prompt para gerar diferentes resposas; 
+ >   - Escolha a melhor sugestão;
+ >   - Providencie Feedback para melhorar sugestões futuras. 
+ >
+ 
 </details>
 
 ----
